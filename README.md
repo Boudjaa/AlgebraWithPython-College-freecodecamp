@@ -1,5 +1,7 @@
 # AlgebraWithPython-College-freecodecamp
 
+<h4> <b>Verify this certification at: </b> https://freecodecamp.org/certification/Abderazak-B/college-algebra-with-python-v8 </h4>
+
 <h4>Course description: </h4>
 
 This course is designed as a one-semester college course. It consists of instructional videos, with Google Colaboratory notebooks to follow along interactively, assignments, and challenging projects.
