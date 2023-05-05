@@ -1,6 +1,6 @@
 # AlgebraWithPython-College-freecodecamp
 <h4>Course description: </h4>
-
+https://www.freecodecamp.org/learn/college-algebra-with-python/ <br> <br>
 This course is designed as a one-semester college course. It consists of instructional videos, with Google Colaboratory notebooks to follow along interactively, assignments, and challenging projects.
 
 <b>Skills gained gain:<b> a full understanding of Algebra and how to write Python code to solve Algebra problems.
